@@ -1,0 +1,25 @@
+body{
+    background-color: #eeeeee;
+}
+
+div{
+    margin: 2% 25% 2% 25%;
+}
+
+h1{
+    font-size: 400%;
+    text-align: center;
+}
+
+p{
+    font-size: large;
+}
+
+li{
+    font-size: large;
+}
+
+.exp{
+    border-style: solid;
+    border-color: #dddddd;
+}

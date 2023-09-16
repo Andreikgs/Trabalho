@@ -1,0 +1,28 @@
+body{
+    background-color: #eeeeee;
+}
+
+div{
+    margin: 2% 25% 2% 25%;
+}
+
+h1{
+    font-size: 400%;
+    text-align: center;
+}
+
+.logo{
+    height: 10%;
+    width: 10%;
+    text-align: center;
+    display: block;
+    margin: 0px auto;
+}
+.exp{
+    border-style: solid;
+    border-color: #dddddd;
+}
+
+p{
+    font-size: large;
+}

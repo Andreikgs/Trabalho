@@ -1,0 +1,38 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: #ffffff;
+}
+
+form{
+    border-style: solid;
+    border-color: #dddddd;
+    border-radius: 4em;
+    padding: 4%;
+    margin-right: 30%;
+    margin-left: 30%;
+    border-width: 0.1em;
+    background-color: #eeeeee;
+}
+
+div{
+    margin: 0.2%;
+}
+
+.inputexto{
+    padding: 1%;
+    border-color: aqua;
+    border-radius: 0.5em;
+    width: 100%;
+    
+}
+
+.labeltexto{
+    margin-left: 30%;
+    margin-right: 30%;
+    display: block;
+}
+
+p{
+    margin-left: 30%;
+    margin-right: 30%;
+}

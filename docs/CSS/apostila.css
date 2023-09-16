@@ -1,0 +1,33 @@
+header{
+    border-style: solid;
+    border-radius: 4em;
+    border-color: #dddddd;
+    background-color: #eeeeee;
+    margin: 2% 25% 2% 25%;
+    padding: 2%;
+}
+
+a{
+    display: block;
+    border: solid;
+    border-radius: 4em;
+    border-color: #393e46;
+    background-color: #393e46;
+    color: #eeeeee;
+    font-size: larger;
+    padding: 1%;
+    margin: 1%;
+    text-align: center;
+    text-decoration: none;
+    font-size: 200%;
+}
+
+a:hover{
+    background-color: black;
+    border: none
+}
+
+h1{
+    text-align: center;
+    font-size: 400%;
+}

@@ -1,0 +1,28 @@
+body{
+    background-color: #eeeeee;
+}
+
+div{
+    margin: 2% 25% 2% 25%;
+}
+
+h1{
+    font-size: 400%;
+    text-align: center;
+}
+
+.exp{
+    border-style: solid;
+    border-color: #dddddd;
+}
+
+.exp1{
+    border-style: solid;
+    border-color: #dddddd;
+    height: 50%;
+    width: 50%;
+}
+
+p{
+    font-size: large;
+}
